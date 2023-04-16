@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.IO;
 using System.Linq;
 using System.Security.Principal;
@@ -168,11 +169,16 @@ namespace test
                 this.Log($"Not enough buying power to execute strategy", StrategyLoggingLevel.Error);
                 this.Stop();
             }
+            //QT backtesting starting date: 4/14/2023 6:00 AM
+            //QT backtesting ending date: 4/14/2023 4:00 PM
+            //QT backtesting replaying from: 4/14/2023 9:00 AM
+            //MNQ From 1minute
+
             //getting data from 4/14/2023 9am to current
             this.hdm = this.CurrentSymbol.GetHistory(
                 this.period,
                 this.CurrentSymbol.HistoryType,
-                DateTime.Parse("4/14/2023 09:00 AM")    
+                DateTime.Parse("4/14/2023 4:00 AM")    
                 );
             this.Log($"history items count:{hdm.Count}", StrategyLoggingLevel.Info);
 
