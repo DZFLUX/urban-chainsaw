@@ -1,0 +1,16 @@
+C:\Users\chad\OneDrive\Desktop\Quantower\Settings\Scripts\Strategies\OneSymbolStrategy1\test.deps.json
+C:\Users\chad\OneDrive\Desktop\Quantower\Settings\Scripts\Strategies\OneSymbolStrategy1\test.dll
+C:\Users\chad\OneDrive\Desktop\Quantower\Settings\Scripts\Strategies\OneSymbolStrategy1\test.pdb
+C:\Users\chad\Documents\git\2023-DZFLUX\urban-chainsaw\QT\obj\Debug\QT.csproj.AssemblyReference.cache
+C:\Users\chad\Documents\git\2023-DZFLUX\urban-chainsaw\QT\obj\Debug\QT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chad\Documents\git\2023-DZFLUX\urban-chainsaw\QT\obj\Debug\QT.AssemblyInfoInputs.cache
+C:\Users\chad\Documents\git\2023-DZFLUX\urban-chainsaw\QT\obj\Debug\QT.AssemblyInfo.cs
+C:\Users\chad\Documents\git\2023-DZFLUX\urban-chainsaw\QT\obj\Debug\QT.csproj.CoreCompileInputs.cache
+C:\Users\chad\Documents\git\2023-DZFLUX\urban-chainsaw\QT\obj\Debug\QT.csproj.CopyComplete
+C:\Users\chad\Documents\git\2023-DZFLUX\urban-chainsaw\QT\obj\Debug\test.dll
+C:\Users\chad\Documents\git\2023-DZFLUX\urban-chainsaw\QT\obj\Debug\refint\test.dll
+C:\Users\chad\Documents\git\2023-DZFLUX\urban-chainsaw\QT\obj\Debug\test.pdb
+C:\Users\chad\Documents\git\2023-DZFLUX\urban-chainsaw\QT\obj\Debug\ref\test.dll
+C:\Users\chad\OneDrive\Desktop\Quantower\Settings\Scripts\Strategies\test\test.deps.json
+C:\Users\chad\OneDrive\Desktop\Quantower\Settings\Scripts\Strategies\test\test.dll
+C:\Users\chad\OneDrive\Desktop\Quantower\Settings\Scripts\Strategies\test\test.pdb
