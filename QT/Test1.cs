@@ -174,7 +174,7 @@ namespace test
             //QT backtesting replaying from: 4/14/2023 9:00 AM
             //MNQ From 1minute
 
-            //getting data from 4/14/2023 9am to current
+            //getting data from 4/14/2023 4am to current
             this.hdm = this.CurrentSymbol.GetHistory(
                 this.period,
                 this.CurrentSymbol.HistoryType,
